@@ -1,0 +1,6 @@
+[submodule "turf_cleats_frontend"]
+	path = turf_cleats_frontend
+	url = git@github.com:lamltdao/turf_cleats_frontend.git
+[submodule "turf_cleats_backend"]
+	path = turf_cleats_backend
+	url = git@github.com:lamltdao/turf_cleats_backend.git
